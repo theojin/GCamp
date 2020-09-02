@@ -1,6 +1,4 @@
-# GCamp
-
-#현재 G캠프 가이드 방식
+# 현재 G캠프 가이드 방식
 [![Everything Is AWESOME](https://img.youtube.com/vi/l9dvRO4mPWM/hqdefault.jpg)](https://youtu.be/l9dvRO4mPWM "Everything Is AWESOME")
 
 # 제안 방식 (이미지 링크만 변경)
@@ -8,4 +6,6 @@
 
 
 
-https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg
+https://img.youtube.com/vi/l9dvRO4mPWM/hqdefault.jpg
+=>
+https://yt-embed.herokuapp.com/embed?v=l9dvRO4mPWM
